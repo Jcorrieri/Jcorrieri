@@ -9,7 +9,7 @@ I’m a computer science student and developer passionate about artificial intel
 - 🎓 **B.S. in Computer Science** with minors in Mathematics & International Business (University of North Florida, May 2025) — GPA: 3.99/4.0  
 - 🌏 Studied abroad in **Data Science** at Sungkyunkwan University, South Korea (Spring 2024) — GPA: 4.0/4.0  
 - 💼 Experienced in web design, full-stack development, and applied machine learning  
-- 📫 Reach me: [Email](mailto:jacomocorrieri@gmail.com) | [Portfolio](https://jcorrieri.github.io/Portfolio/#about) | [GitHub](https://github.com/Jcorrieri) | [LinkedIn](https://www.linkedin.com/in/jacomo-corrieri-538292268/)
+- 📫 Reach me: [Email](mailto:jacorrieri@gmail.com) | [Portfolio](https://jcorrieri.github.io/Portfolio/#about) | [GitHub](https://github.com/Jcorrieri) | [LinkedIn](https://www.linkedin.com/in/jacomo-corrieri-538292268/)
 
 ---
 
