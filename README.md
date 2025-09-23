@@ -1,6 +1,6 @@
 # Hi, I'm Jacomo Corrieri
 
-I’m a computer science student and developer passionate about artificial intelligence, full-stack development, and building scalable, impactful applications. I enjoy tackling complex problems with elegant technical solutions and collaborating on projects that make a difference.
+I’m a software developer, researcher, musician, and lifelong learner with a love for computing, math, and more! From conducting undergraduate research to studying abroad in Seoul, South Korea, I've always pushed myself to try new experiences. Now, I am pursuing a master's degree in Computer Science at the University of Florida. My main computing interests are machine learning, reinforcement learning, and software engineering.
 
 ---
 
