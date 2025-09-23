@@ -32,7 +32,7 @@ I’m a software developer, researcher, musician, and lifelong learner with a lo
 ### 🌐 Web
 - [**Portfolio**](https://github.com/Jcorrieri/Portfolio) — Personal portfolio website built with HTML, CSS, JavaScript, Tailwind CSS, and Webpack.  
 - [**commercialdoorinstallers**](https://github.com/Jcorrieri/commercialdoorinstallers) — Business website for a Jacksonville-based company, developed with Webpack, Tailwind CSS, and hosted on IONOS.  
-- [**AeroAtlas Travel Planner**]([#](https://github.com/Jcorrieri/aeroatlas-copy)) — Full-stack itinerary planner (Next.js, React, TailwindCSS, ShadCN, FastAPI); award-winning MVP at UNF Computing Symposium Spring 2025.  
+- [**AeroAtlas Travel Planner**](https://github.com/Jcorrieri/aeroatlas-copy) — Full-stack itinerary planner (Next.js, React, TailwindCSS, ShadCN, FastAPI); award-winning MVP at UNF Computing Symposium Spring 2025.  
 
 ### 💻 Systems
 - [**raspberrypi-dashboard**](https://github.com/Jcorrieri/raspberrypi-dashboard) — Real-time Java-based system dashboard for Raspberry Pi with SSH access, multithreading, GPIO, and JavaFX UI.  
