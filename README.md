@@ -21,14 +21,22 @@ I’m a computer science student and developer passionate about artificial intel
 ---
 
 ## 📌 Projects
-- [**Multi-Agent Reinforcement Learning for Grid Exploration**](#) — Built custom PyTorch neural networks with PPO, modular reward functions, and RLlib integration; logged performance with Tensorboard/Pandas.  
-- [**AeroAtlas Travel Planner**](#) — Full-stack itinerary planner (Next.js, React, TailwindCSS, ShadCN, FastAPI); award-winning MVP at UNF Computing Symposium.  
-- [**Raspberry Pi Dashboard**](#) — Real-time system dashboard with JavaFX, multithreading, terminal access, GPIO controls, and styled UI.
 
----
+### 🤖 Machine Learning
+- [**multiagent-gridworld**](https://github.com/Jcorrieri/multiagent-gridworld) — Deep Reinforcement Learning for Multi-Robot Path Planning using PyTorch, Ray RLlib, and Gymnasium.  
+- [**dqn-path-finding**](https://github.com/Jcorrieri/dqn-path-finding) — Pathfinding with Deep Q-Learning using PyTorch, Stable-Baselines3, and Gymnasium.
 
-## 📈 GitHub Snapshot
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jcorrieri&show_icons=true&hide=stars&count_private=true&theme=default)
+### 📊 Data Science
+- [*eda-projects*](https://github.com/Jcorrieri/eda-projects) — Academic and coursework projects in applied data science, including exploratory data analysis and ML applications from Sungkyunkwan University and UNF.  
+
+### 🌐 Web
+- [**Portfolio**](https://github.com/Jcorrieri/Portfolio) — Personal portfolio website built with HTML, CSS, JavaScript, Tailwind CSS, and Webpack.  
+- [**commercialdoorinstallers**](https://github.com/Jcorrieri/commercialdoorinstallers) — Business website for a Jacksonville-based company, developed with Webpack, Tailwind CSS, and hosted on IONOS.  
+- [**AeroAtlas Travel Planner**](#) — Full-stack itinerary planner (Next.js, React, TailwindCSS, ShadCN, FastAPI); award-winning MVP at UNF Computing Symposium Spring 2025.  
+
+### 💻 Systems
+- [**raspberrypi-dashboard**](https://github.com/Jcorrieri/raspberrypi-dashboard) — Real-time Java-based system dashboard for Raspberry Pi with SSH access, multithreading, GPIO, and JavaFX UI.  
+- [**university-db-manager**](https://github.com/Jcorrieri/university-db-manager) — Java application for managing university databases using JDBC API, Oracle DB, and Swing GUI.
 
 ---
 
