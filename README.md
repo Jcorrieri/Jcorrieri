@@ -27,7 +27,7 @@ I’m a software developer, researcher, musician, and lifelong learner with a lo
 - [**dqn-path-finding**](https://github.com/Jcorrieri/dqn-path-finding) — Pathfinding with Deep Q-Learning using PyTorch, Stable-Baselines3, and Gymnasium.
 
 ### 📊 Data Science
-- [*eda-projects*](https://github.com/Jcorrieri/eda-projects) — Academic and coursework projects in applied data science, including exploratory data analysis and ML applications from Sungkyunkwan University and UNF.  
+- [**eda-projects**](https://github.com/Jcorrieri/eda-projects) — Academic and coursework projects in applied data science, including exploratory data analysis and ML applications from Sungkyunkwan University and UNF.  
 
 ### 🌐 Web
 - [**Portfolio**](https://github.com/Jcorrieri/Portfolio) — Personal portfolio website built with HTML, CSS, JavaScript, Tailwind CSS, and Webpack.  
