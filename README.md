@@ -15,8 +15,8 @@ I’m a software developer, researcher, musician, and lifelong learner with a lo
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python, Java, C, JavaScript, SQL, HTML, CSS, Assembly  
-- **Frameworks & Libraries:** PyTorch, Scikit-learn, Gymnasium, NumPy, Pandas, Tailwind CSS  
-- **Technologies & Tools:** Git, Unix, Windows, SFTP, IONOS Web Hosting, FastAPI, Next.js, React  
+- **Frameworks & Libraries:** PyTorch, Gymnasium, NumPy, Pandas, Tailwind CSS, FastAPI, Next.js, React, Scikit-Learn
+- **Technologies & Tools:** Git, Unix, Windows, SFTP, IONOS Web Hosting, Raspberry Pi
 
 ---
 
