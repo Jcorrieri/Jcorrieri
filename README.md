@@ -25,7 +25,7 @@ Experienced in full-stack software engineering, machine learning, and lower-leve
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-> [aeroatlas-copy](https://github.com/Jcorrieri/aeroatlas-copy) · [uf-marketplace](https://github.com/Jcorrieri/uf-marketplace)
+> [uf-marketplace](https://github.com/Jcorrieri/uf-marketplace) · [aeroatlas-copy](https://github.com/Jcorrieri/aeroatlas-copy)
 
 **Systems & Desktop**
 
