@@ -1,6 +1,6 @@
 # Jacomo Corrieri
 
-Experienced in full-stack software engineering, machine learning, and lower-level programming.   
+Experienced in full-stack software engineering and machine learning.
 
 ## My Projects
 
