@@ -1,6 +1,6 @@
 # Jacomo Corrieri
 
-I like it all, but I'm mainly focused on backend software engineering and machine learning. I can also center a div and am re-learning C.
+I like it all, but I'm mainly focused on backend software engineering and machine learning. I can also center a div and am dipping my toes into systems programming.
 ## My Projects
 
 **Full-Stack Web**
