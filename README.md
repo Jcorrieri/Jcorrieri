@@ -1,7 +1,6 @@
 # Jacomo Corrieri
 
-Experienced in full-stack software engineering and machine learning.
-
+I like it all, but I'm mainly focused on backend software engineering and machine learning. I can also center a div and am re-learning C.
 ## My Projects
 
 **Full-Stack Web**
