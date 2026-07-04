@@ -1,7 +1,7 @@
 # Jacomo Corrieri
 
 I'm generally interested in all computer science topics, but my main experience is in backend software development and machine learning. 
-That said, I can still center a div or two and dabble in a bit of other stuff.
+That said, I can still center a div or two and dabble a bit in other stuff.
 
 ## My Projects
 
