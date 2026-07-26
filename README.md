@@ -7,7 +7,7 @@ That said, I can still center a div or two and dabble a bit in other stuff.
 
 **Full-Stack Web**
 
-- [uf-marketplace](https://github.com/Jcorrieri/uf-marketplace)
+- [uf-marketplace](https://github.com/Jcorrieri/ufm-jc)
 - [aeroatlas-copy](https://github.com/Jcorrieri/aeroatlas-copy)
 
 **Machine Learning**
