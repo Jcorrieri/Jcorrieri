@@ -19,7 +19,7 @@ That said, I can still center a div or two and dabble a bit in other stuff.
 
 **Other**
 
-- [dsa-in-c](https://github.com/Jcorrieri/dsa-in-c)
+- [dns_cache](https://github.com/Jcorrieri/dns-cache)
 - [raspberrypi-dashboard](https://github.com/Jcorrieri/raspberrypi-dashboard) 
 - [mips-converter](https://github.com/Jcorrieri/mips-converter) 
 - [university-db-manager](https://github.com/Jcorrieri/university-db-manager)
