@@ -1,7 +1,7 @@
 # Jacomo Corrieri
 
 I'm generally interested in all computer science topics, but my main experience is in backend software development and machine learning. 
-That said, I can still center a div or two and dabble a bit in other stuff.
+That said, I can still center a div or two and dabble in systems programming.
 
 ## My Projects
 
@@ -17,7 +17,7 @@ That said, I can still center a div or two and dabble a bit in other stuff.
 - [dqn-path-finding](https://github.com/Jcorrieri/dqn-path-finding) 
 - [eda-projects](https://github.com/Jcorrieri/eda-projects)
 
-**Other**
+**Systems/Other**
 
 - [dns_cache](https://github.com/Jcorrieri/dns-cache)
 - [raspberrypi-dashboard](https://github.com/Jcorrieri/raspberrypi-dashboard) 
