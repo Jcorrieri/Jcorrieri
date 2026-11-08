@@ -1,28 +1,8 @@
 # Jacomo Corrieri
 
-I'm generally interested in all computer science topics, but my main experience is in backend software development and machine learning. 
-That said, I can still center a div or two and dabble in systems programming.
+Graduate computer science student at the University of Florida, currently studying distributed systems and GPU programming. I have experience in full-stack software development and published research in reinforcement learning for autonomous robots. My primary languages are Python and C++.
 
-## My Projects
-
-**Full-Stack Web**
-
-- [uf-marketplace](https://github.com/Jcorrieri/ufm-jc)
-- [aeroatlas-copy](https://github.com/Jcorrieri/aeroatlas-copy)
-
-**Machine Learning**
-
-- [motorch](https://github.com/Jcorrieri/motorch)
-- [multiagent-gridworld](https://github.com/Jcorrieri/multiagent-gridworld) 
-- [dqn-path-finding](https://github.com/Jcorrieri/dqn-path-finding) 
-- [eda-projects](https://github.com/Jcorrieri/eda-projects)
-
-**Systems/Other**
-
-- [dns_cache](https://github.com/Jcorrieri/dns-cache)
-- [raspberrypi-dashboard](https://github.com/Jcorrieri/raspberrypi-dashboard) 
-- [mips-converter](https://github.com/Jcorrieri/mips-converter) 
-- [university-db-manager](https://github.com/Jcorrieri/university-db-manager)
+Feel free to check out some of my pinned projects!
 
 ## Contact
 [Email](mailto:jacorrieri@gmail.com) | [Portfolio](https://jcorrieri.github.io/Portfolio/#about) | [LinkedIn](https://www.linkedin.com/in/jacomo-corrieri-538292268/)
