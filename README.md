@@ -1,6 +1,6 @@
 # Jacomo Corrieri
 
-Graduate computer science student at the University of Florida, currently studying distributed systems and GPU programming. I have experience in full-stack software development and published research in reinforcement learning for autonomous robots. My primary languages are Python and C++.
+Graduate computer science student at the University of Florida, currently studying distributed systems and GPU programming.
 
 Feel free to check out some of my pinned projects!
 
